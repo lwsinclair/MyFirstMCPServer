@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gsharma2907-myfirstmcpserver-badge.png)](https://mseep.ai/app/gsharma2907-myfirstmcpserver)
+
 **Building my First MCP Server**
 (**And the fun of vibe coding**)
 
